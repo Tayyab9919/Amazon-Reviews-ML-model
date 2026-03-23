@@ -88,3 +88,8 @@
 
 **pip install -r requirements.txt**
 
+
+
+## 📸 Model Output
+<img width="598" height="357" alt="Screenshot 2026-03-23 162928" src="https://github.com/user-attachments/assets/d95a287e-59e7-4751-ab1f-3252b66eac50" />
+
